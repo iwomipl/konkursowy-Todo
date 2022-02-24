@@ -1,0 +1,23 @@
+{
+  "name": "t01-d02",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb": "^18.2.1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "express-rate-limit": "^5.5.0"
+  },
+  "description": "Prośba, aby odpalić projekt w IDE. Pozdrawiam"
+}

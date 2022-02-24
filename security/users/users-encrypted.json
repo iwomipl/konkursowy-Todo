@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Nowy uzytkownik",
+    "encrypted": "45562a9fd5528ec8af8c7d0030ca1ce07a9a9499d6c9c6b6426b41cec031cb89",
+      "iv": "b515c6933926af981e89836f9accdd43"
+
+  },
+  {
+    "name": "drugiuzytkownik",
+    "encrypted": "45562a9fd5528ec8af8c7d0030ca1ce07a9a9499d6c9c6b6426b41cec031cb89",
+    "iv": "b515c6933926af981e89836f9accdd43"
+  }
+]
